@@ -58,4 +58,7 @@ npx jest
 
 // only one file
 npx jest hello.test.ts
+
+// only one unit test
+npx jest -it "Interface Array" type-data.test.ts
 ```
